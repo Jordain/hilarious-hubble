@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/",
+  website: "https://jordain.ca/",
   author: "Jordain Perreault-Joyce",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "Jord Board",
+  desc: "Jordain's Blog: A Haven for Curiosity, Showcasing His Unique Finds",
+  title: "Jordain",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -16,7 +16,7 @@ export const LOGO_IMAGE = {
   enable: false,
   svg: true,
   width: 216,
-  height: 46,
+  height: 50,
 };
 
 export const SOCIALS: SocialObjects = [
@@ -30,13 +30,13 @@ export const SOCIALS: SocialObjects = [
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
@@ -48,13 +48,13 @@ export const SOCIALS: SocialObjects = [
     name: "Mail",
     href: "mailto:jordainjoyce@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    active: true,
   },
   {
     name: "Twitter",
     href: "https://twitter.com/Jordain",
     linkTitle: `${SITE.title} on Twitter`,
-    active: false,
+    active: true,
   },
   {
     name: "Twitch",
@@ -66,7 +66,7 @@ export const SOCIALS: SocialObjects = [
     name: "YouTube",
     href: "https://www.youtube.com/channel/UCq5ZOsN6RjVfPKHMwGGnCvA",
     linkTitle: `${SITE.title} on YouTube`,
-    active: false,
+    active: true,
   },
   {
     name: "WhatsApp",
