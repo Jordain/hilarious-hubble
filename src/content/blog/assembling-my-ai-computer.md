@@ -16,13 +16,13 @@ Here are the parts I used to build my AI computer 🤖, an assembling video and 
 
 <!-- ## Table of contents -->
  
-## Assembled Computer
-
-<img src="../../../public/assets/images/ComputerComponents.png" alt="Computer Components">
-
 ## Assembly Video
 
 <iframe width="100%" height="414" src="https://www.youtube.com/embed/25A7MGj2Wf8?si=2kd554dEprUtIw30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Assembled Computer
+
+<img src="../../../public/assets/images/ComputerComponents.png" alt="Computer Components">
 
 ## Parts
 
