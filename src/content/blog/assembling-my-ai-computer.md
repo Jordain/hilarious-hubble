@@ -22,7 +22,7 @@ Here are the parts I used to build my AI computer 🤖, an assembling video and 
 
 ## Assembled Computer
 
-<img src="public/assets/images/ComputerComponents.png" alt="Computer Components">
+<img src="../../../public/assets/images/ComputerComponents.png" alt="Computer Components">
 
 ## Parts
 
