@@ -24,5 +24,6 @@ To be completed soon.
 ![CircleMask](@assets/images/Auto1111-Basic-Shape-Mask/CircleMask.jpg)
 ![SquareMask](@assets/images/Auto1111-Basic-Shape-Mask/SquareMask.jpg)
 ![DiamondMask](@assets/images/Auto1111-Basic-Shape-Mask/DiamondMask.jpg)
+![TriforceMask](@assets/images/Auto1111-Basic-Shape-Mask/TriforceMask.png)
 
 <!-- <img src="../../../public/assets/images/ComputerComponents.png" alt="Computer Components"> -->
